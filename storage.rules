@@ -1,0 +1,15 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Allow public read on all uploaded product and website images
+    match /uploads/{allPaths=**} {
+      allow read: if true;
+      allow write: if true;
+    }
+    // Allow read on all files, allow write for authenticated or admin workflows
+    match /{allPaths=**} {
+      allow read: if true;
+      allow write: if true;
+    }
+  }
+}

@@ -1,0 +1,813 @@
+{
+  "collections": [
+    {
+      "isFeatured": true,
+      "coverImage": "/images/collection_spring_banner_1790824000819.jpg",
+      "id": "spring-2026",
+      "seasonYear": "Spring 2026",
+      "description": "Soft dusty pinks, garden rose motifs, and breathable pure cotton textiles.",
+      "slug": "spring-2026",
+      "nameAr": "مجموعة ربيع 2026: حديقة الورد",
+      "descriptionAr": "تدرجات الوردي البودري مع نقوش الورد البلدي وأوراق الميرمية الهادئة لأيام ربيعية دافئة.",
+      "bannerImage": "/images/collection_spring_banner_1790824000819.jpg",
+      "isPublished": true,
+      "name": "Spring 2026: Rose Garden",
+      "productIds": [
+        "prod-1",
+        "prod-2",
+        "prod-3",
+        "prod-4"
+      ]
+    },
+    {
+      "slug": "spring-2025",
+      "productIds": [
+        "prod-2",
+        "prod-4",
+        "prod-5",
+        "prod-6"
+      ],
+      "bannerImage": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+      "isPublished": true,
+      "name": "Spring 2025: Botanical Bloom",
+      "id": "spring-2025",
+      "descriptionAr": "المجموعة الكلاسيكية الأكثر طلباً بنقوش نباتية هادئة باللون الأخضر الميرمية والبيج الدافئ.",
+      "description": "Our inaugural bestselling collection of sage green and cream botanical prints.",
+      "nameAr": "مجموعة ربيع 2025: إشراقة الطبيعة",
+      "seasonYear": "Spring 2025",
+      "coverImage": "/images/product_bedsheet_blossom_1790823969755.jpg",
+      "isFeatured": false
+    }
+  ],
+  "sections": [
+    {
+      "subtitle": "Main storefront hero with editorial photography",
+      "title": "Editorial Hero Banner",
+      "type": "hero",
+      "content": {
+        "trustText3Ar": "توصيل لباب بيتك والدفع عند الاستلام",
+        "subheadlineAr": "مفروشات هاند ميد بتفاصيل أنثوية رقيقة تحوّل أوضتك لمكان يشبهك ويدفّي قلبك في كل لحظة.",
+        "trustText1Ar": "خياطة وتطريز يدوي 100%",
+        "showFloatingCard": true,
+        "ctaTextAr": "اكتشفي المجموعة",
+        "imageUrl": "/uploads/1792091975854_5920163512305436251_jpg.jpg",
+        "secondaryCtaLink": "https://wa.me/201116009563",
+        "floatingBadgeTextAr": "تطريزات وكشكشة بألوان الباستيل الهادية",
+        "floatingPosition": "bottom-left",
+        "showTrustMarkers": true,
+        "badgeTextAr": "صُنع بحب في مصر 🤍 دُمتن جميلات",
+        "headlineAr": "خلي سريرك يحكي عنك 🌸",
+        "secondaryCtaTextAr": "تواصلي معنا عبر واتساب",
+        "trustText2Ar": "قطن مصري أصيل",
+        "floatingBadgeIcon": "heart",
+        "floatingBadgeTitleAr": "تفاصيل تفرّح القلب",
+        "alignment": "right",
+        "ctaLink": "/bedsheets"
+      },
+      "paddingY": "large",
+      "subtitleAr": "صورة الواجهة الرئيسية والمقدمة العاطفية",
+      "isVisible": true,
+      "backgroundColor": "#FDF9F6",
+      "id": "sec-hero",
+      "titleAr": "بانر الواجهة الرئيسي",
+      "order": 1
+    },
+    {
+      "content": {},
+      "title": "Category Highlights",
+      "subtitleAr": "مفروشات السرير والبوشات المبطنة",
+      "type": "categories",
+      "backgroundColor": "#FAF3ED",
+      "titleAr": "تصفحي حسب الأقسام",
+      "isVisible": true,
+      "paddingY": "medium",
+      "id": "sec-categories",
+      "subtitle": "Browse Bedsheets & Pouches",
+      "order": 2
+    },
+    {
+      "order": 3,
+      "isVisible": true,
+      "subtitle": "Handpicked favorites by young women who love cozy decor",
+      "type": "featured_products",
+      "subtitleAr": "اختيارات مفضلة صُنعت يدوياً بحب وعناية فائقة",
+      "titleAr": "القطع الأكثر حباً 💗",
+      "id": "sec-featured-products",
+      "title": "Most Loved Pieces",
+      "paddingY": "medium",
+      "content": {
+        "displayLimit": 4,
+        "selectedProductIds": [
+          "prod-1",
+          "prod-2",
+          "prod-3",
+          "prod-5"
+        ]
+      },
+      "backgroundColor": "#FDF9F6"
+    },
+    {
+      "backgroundColor": "#D82B76",
+      "content": {
+        "subheadlineAr": "اختاري مفروشات سريرك وبوشاتك المفضلة واحصلي على خصم فوري عند الطلب الآن عبر واتساب.",
+        "buttonTextAr": "اطلبي الآن عبر واتساب",
+        "headlineAr": "🌸 دُمتن جميلات — خصم 20% على مفروشات ربيع 2026",
+        "buttonLink": "https://wa.me/201116009563"
+      },
+      "paddingY": "small",
+      "order": 4,
+      "subtitleAr": "خصومات موسم الربيع وتوصيل سريع",
+      "titleAr": "بانر العرض الموسمي",
+      "type": "promo_banner",
+      "title": "Spring Special Promotion",
+      "id": "sec-promo-banner",
+      "subtitle": "Limited-time spring savings",
+      "isVisible": true,
+      "textColor": "#FFFFFF"
+    },
+    {
+      "subtitle": "Full collection spotlight with editorial mood and story",
+      "isVisible": true,
+      "order": 5,
+      "subtitleAr": "تدرجات الوردي البودري وأوراق الميرمية لنوم هادئ ومريح",
+      "paddingY": "large",
+      "type": "featured_collection",
+      "titleAr": "مجموعة ربيع 2026: حديقة الورد 🌿",
+      "title": "Featured Collection: Spring 2026",
+      "backgroundColor": "#FAF3ED",
+      "id": "sec-featured-collection",
+      "content": {
+        "ctaLink": "/collections/spring-2026",
+        "imageUrl": "/images/collection_spring_banner_1790824000819.jpg",
+        "ctaTextAr": "تسوقي كامل المجموعة",
+        "collectionId": "spring-2026"
+      }
+    },
+    {
+      "paddingY": "medium",
+      "order": 6,
+      "type": "image_text",
+      "backgroundColor": "#FDF9F6",
+      "isVisible": true,
+      "content": {
+        "bodyTextAr": "في قطونيلا بنؤمن إن السرير مش مجرد مكان للنوم، بل الملاذ الدافي اللي بتبدأي وتنهي فيه يومك. بنختار قطن مصري طبيعي 100% بارد وناعم، وبنخيط كل قطعة بإيدينا بكشكشات ونقوش وردية مستوحاة من رقة الطبيعة.",
+        "buttonLink": "/about",
+        "imageUrl": "/images/product_pillow_cozy_1790823990563.jpg",
+        "headlineAr": "صناعة يدوية تهتم بأدق تفاصيلك",
+        "buttonTextAr": "تعرفي على قصتنا كاملة"
+      },
+      "subtitleAr": "سر الجودة والملمس القطني الفاخر اللي هيصاحبك سنين",
+      "id": "sec-image-text",
+      "title": "The Cottonella Handmade Story",
+      "subtitle": "Why 100% Egyptian cotton and slow handmade sewing matter",
+      "titleAr": "قصة قطونيلا.. من القلب لغرفتك"
+    },
+    {
+      "paddingY": "medium",
+      "isVisible": true,
+      "subtitleAr": "كلمات من قلوب عميلاتنا الجميلات بعد ما وصلتهم قطعهم",
+      "id": "sec-testimonials",
+      "title": "Customer Feedback",
+      "order": 7,
+      "subtitle": "Loved by hundreds of happy girls & cozy homes",
+      "content": {},
+      "backgroundColor": "#FAF3ED",
+      "type": "testimonials",
+      "titleAr": "قالوا عن Cottonella 💗"
+    },
+    {
+      "isVisible": true,
+      "order": 8,
+      "titleAr": "شاركينا جمال غرفتك على انستجرام @cottonella_eg",
+      "subtitle": "Follow our daily behind-the-scenes and client styling",
+      "content": {
+        "instagramPosts": [
+          {
+            "image": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+            "likes": 420,
+            "id": "ig-1"
+          },
+          {
+            "likes": 312,
+            "id": "ig-2",
+            "image": "/images/product_bedsheet_blossom_1790823969755.jpg"
+          },
+          {
+            "likes": 589,
+            "id": "ig-3",
+            "image": "/images/product_pouch_floral_1790823980112.jpg"
+          },
+          {
+            "likes": 275,
+            "id": "ig-4",
+            "image": "/images/product_pillow_cozy_1790823990563.jpg"
+          }
+        ],
+        "instagramHandle": "@cottonella_eg"
+      },
+      "subtitleAr": "تابعي كواليس الخياطة اليدوية وتنسيقات عميلاتنا اليومية",
+      "type": "instagram",
+      "id": "sec-instagram",
+      "title": "Instagram Community",
+      "backgroundColor": "#FDF9F6",
+      "paddingY": "medium"
+    }
+  ],
+  "updatedAt": "2026-10-17T10:51:38.376Z",
+  "test": true,
+  "media": [
+    {
+      "id": "med-1792092162734",
+      "url": "/uploads/1792092162646_log0_png.png",
+      "uploadedAt": "2026-10-15",
+      "folder": "website",
+      "size": "124 KB",
+      "title": "log0"
+    },
+    {
+      "url": "/uploads/1792091975854_5920163512305436251_jpg.jpg",
+      "size": "262 KB",
+      "title": "5920163512305436251",
+      "uploadedAt": "2026-10-15",
+      "id": "med-1792091976117",
+      "folder": "website"
+    },
+    {
+      "folder": "website",
+      "size": "1.2 MB",
+      "url": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+      "uploadedAt": "2026-03-20",
+      "title": "Cozy Bedroom Hero Lifestyle",
+      "id": "med-1"
+    },
+    {
+      "title": "Pink Blossom Bed Set Studio",
+      "id": "med-2",
+      "size": "980 KB",
+      "uploadedAt": "2026-03-20",
+      "folder": "products",
+      "url": "/images/product_bedsheet_blossom_1790823969755.jpg"
+    },
+    {
+      "uploadedAt": "2026-03-20",
+      "url": "/images/product_pouch_floral_1790823980112.jpg",
+      "folder": "products",
+      "id": "med-3",
+      "title": "Handmade Quilted Pouch Studio",
+      "size": "850 KB"
+    },
+    {
+      "size": "910 KB",
+      "uploadedAt": "2026-03-20",
+      "id": "med-4",
+      "title": "Sage & Pink Ruffle Pillows",
+      "url": "/images/product_pillow_cozy_1790823990563.jpg",
+      "folder": "products"
+    },
+    {
+      "size": "1.4 MB",
+      "url": "/images/collection_spring_banner_1790824000819.jpg",
+      "folder": "collections",
+      "uploadedAt": "2026-03-20",
+      "title": "Spring 2026 Campaign Drapes",
+      "id": "med-5"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Bedsheets",
+      "description": "Handcrafted premium Egyptian cotton bedsheets designed for dreamy sleep and cozy aesthetics.",
+      "image": "/images/product_bedsheet_blossom_1790823969755.jpg",
+      "isVisible": true,
+      "descriptionAr": "ملايات وأطقم سرير هاند ميد من أجود خامات القطن المصري بتفاصيل رقيقة ولمسات دافئة.",
+      "slug": "bedsheets",
+      "nameAr": "مفروشات السرير",
+      "order": 1,
+      "id": "cat-bedsheets"
+    },
+    {
+      "image": "/images/product_pouch_floral_1790823980112.jpg",
+      "descriptionAr": "بوشات قطنية مبطنة هاند ميد بتطريزات نباتية لحفظ مستحضراتك وأشيائك المفضلة.",
+      "id": "cat-pouch",
+      "isVisible": true,
+      "description": "Artisanal quilted pouches for cosmetics, skincare, and daily treasures.",
+      "name": "Pouches & Bags",
+      "nameAr": "بوشات ومقالم",
+      "slug": "pouch",
+      "order": 2
+    }
+  ],
+  "promotions": [
+    {
+      "discountType": "percentage",
+      "discountValue": 20,
+      "code": "SPRING20",
+      "endDate": "2026-04-15",
+      "bannerTextAr": "🌸 خصم 20% لفترة محدودة على تشكيلة ربيع 2026 — اطلبي الآن وخلي كوتونيلا توصل لباب بيتك!",
+      "isActive": true,
+      "bannerText": "🌸 خصم 20% لفترة محدودة على جميع مفروشات ربيع 2026 — اطلبي الآن عبر واتساب!",
+      "id": "promo-spring26",
+      "startDate": "2026-03-01",
+      "title": "Spring Season Opening Offer",
+      "titleAr": "عرض انطلاق تشكيلة ربيع 2026",
+      "appliesTo": "all"
+    }
+  ],
+  "testimonials": [
+    {
+      "isPublished": true,
+      "customerAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "id": "test-1",
+      "isFeatured": true,
+      "productPurchased": "طقم سرير بينك بلوسوم",
+      "date": "2026-03-22",
+      "customerName": "سلمى المهدي",
+      "review": "الملايات طلعت أحلى بكتير من الصور! الملمس قطن طبيعي وبارد جداً وريحتها وتغليفها يفتح النفس.. بجد خليتوا أوضتي حتة من بنترست 🌸",
+      "city": "القاهرة، المعادي",
+      "rating": 5
+    },
+    {
+      "id": "test-2",
+      "isFeatured": true,
+      "date": "2026-03-18",
+      "customerName": "نور الهدى إبراهيم",
+      "customerAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "city": "الإسكندرية، كفر عبده",
+      "isPublished": true,
+      "productPurchased": "بوش ميك اب مبطن بالورد البلدي",
+      "review": "البوش المبطن وصلني بسرعة والتقفيل والسوستة خيال.. حجمه يشيل كل الميك اب وبقى قطعتي المفضلة في الشنطة 🤍 شكراً كوتونيلا!"
+    },
+    {
+      "customerName": "فاطمة الزهراء",
+      "city": "الشيخ زايد",
+      "productPurchased": "طقم خداديات أوراق الميرمية",
+      "id": "test-3",
+      "review": "الخداديات بالكشكشة ادّت روحيّة جديدة لسريري والطلب على الواتساب كان في قمة الذوق والسرعة. أكيد مش آخر تعامل معكم.",
+      "date": "2026-03-15",
+      "customerAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "isPublished": true,
+      "isFeatured": true,
+      "rating": 5
+    }
+  ],
+  "settings": {
+    "primaryColor": "#D82B76",
+    "footer": {
+      "copyrightTextAr": "© 2026 Cottonella قطونيلا. جميع الحقوق محفوظة. صُنع بكل حب في مصر 💗",
+      "facebookUrl": "https://facebook.com/cottonella_eg",
+      "brandBioAr": "براند مصري شغوف بصناعة مفروشات السرير والبوشات المبطنة هاند ميد بأقمشة قطنية فائقة النعومة وتطريزات رقيقة تناسب غرفتك وتفاصيلك اليومية الجميلة.",
+      "instagramUrl": "https://instagram.com/cottonella_eg"
+    },
+    "whatsAppMessageTemplate": "مرحباً Cottonella 💗\nأريد طلب {product_name}\nالسعر: {price} ج.م\nالخيارات: {variant}",
+    "tagline": "Handmade with Love in Egypt",
+    "brandName": "Cottonella",
+    "secondaryColor": "#5F8D69",
+    "announcementBar": {
+      "textAr": "اطلبي الآن وخلي Cottonella توصل لباب بيتك 💗 | توصيل لجميع محافظات مصر والدفع عند الاستلام",
+      "enabled": true,
+      "link": "#bedsheets",
+      "textColor": "#FFFFFF",
+      "bgColor": "#D82B76"
+    },
+    "logoUrl": "/uploads/1792092162646_log0_png.png",
+    "header": {
+      "navLinks": [
+        {
+          "labelAr": "الرئيسية",
+          "id": "nav-home",
+          "path": "/",
+          "isVisible": true,
+          "labelEn": "Home"
+        },
+        {
+          "path": "/bedsheets",
+          "labelAr": "مفروشات السرير",
+          "isVisible": true,
+          "id": "nav-bedsheets",
+          "labelEn": "Bedsheets"
+        },
+        {
+          "labelAr": "بوشات ومقالم",
+          "path": "/pouch",
+          "isVisible": true,
+          "labelEn": "Pouches",
+          "id": "nav-pouch"
+        },
+        {
+          "labelAr": "المجموعات",
+          "isVisible": true,
+          "id": "nav-collections",
+          "labelEn": "Collections",
+          "path": "/collections"
+        },
+        {
+          "labelAr": "عن قطونيلا",
+          "labelEn": "About Us",
+          "id": "nav-about",
+          "path": "/about",
+          "isVisible": true
+        },
+        {
+          "id": "nav-contact",
+          "labelAr": "تواصلي معنا",
+          "path": "/contact",
+          "isVisible": true,
+          "labelEn": "Contact"
+        }
+      ],
+      "showWhatsApp": true,
+      "showSearch": true,
+      "showInstagram": true
+    },
+    "textColor": "#2D2426",
+    "taglineAr": "مفروشات هاند ميد تحكي عنك 🌸 دُمتن جميلات",
+    "backgroundColor": "#FDF9F6",
+    "brandNameAr": "قطونيلا",
+    "accentColor": "#FBE4ED",
+    "adminPassword": "cottonella2026",
+    "whatsAppNumber": "01116009563"
+  },
+  "products": [
+    {
+      "finalPrice": 800,
+      "createdAt": "2026-03-10",
+      "sku": "COT-BS-001",
+      "name": "Pink Blossom Quilted Bed Set",
+      "tags": [
+        "floral",
+        "pink",
+        "bedsheet",
+        "cotton",
+        "handmade",
+        "spring2026"
+      ],
+      "isArchived": false,
+      "discountEnabled": true,
+      "descriptionAr": "طقم سرير هاند ميد فاخر من قطن مصري 100% بنقوش الورد البلدي باللون الوردي الهادئ وأوراق الميرمية. يشمل ملاية بحواف مطاطية، غطاء لحاف، وغطائي وسادة بكشكشة أنثوية رقيقة.",
+      "price": 1000,
+      "category": "bedsheets",
+      "reviewCount": 38,
+      "careInstructionsAr": "غسيل لطيف في الغسالة بماء بارد 30 درجة. تجنب المبيضات. التجفيف في الظل.",
+      "materials": "100% Egyptian Percale Cotton, 300 Thread Count",
+      "collectionId": "spring-2026",
+      "careInstructions": "Machine wash delicate at 30°C. Air dry in shade. Warm iron if needed.",
+      "dimensionsAr": "اللحاف: 220×240 سم، الملاية: 240×260 سم، الخداديات: 50×70 سم",
+      "dimensions": "Duvet: 220x240cm, Sheet: 240x260cm, Pillows: 50x70cm",
+      "slug": "pink-blossom-bedsheet-set",
+      "images": [
+        "/uploads/1792090521767_acceptance_test_pillow_png.png",
+        "/uploads/test_new_image.jpg",
+        "/images/hero_cottonella_bedroom_1790823958038.jpg",
+        "/images/product_pillow_cozy_1790823990563.jpg"
+      ],
+      "availability": "in_stock",
+      "rating": 5,
+      "variants": [
+        {
+          "image": "/uploads/1792090521767_acceptance_test_pillow_png.png",
+          "colorAr": "وردي بودري (Blush Pink)",
+          "size": "Single",
+          "sizeAr": "سرير مفرد (120×200 سم)",
+          "stock": 8,
+          "price": 650,
+          "id": "v1-pink-single",
+          "color": "Pink",
+          "sku": "COT-BS-001-PS",
+          "colorHex": "#F6CAD8"
+        },
+        {
+          "id": "v1-pink-double",
+          "sku": "COT-BS-001-PD",
+          "image": "/images/product_bedsheet_blossom_1790823969755.jpg",
+          "stock": 12,
+          "size": "Double",
+          "color": "Pink",
+          "price": 800,
+          "sizeAr": "سرير مزدوج (160×200 سم)",
+          "colorAr": "وردي بودري (Blush Pink)",
+          "colorHex": "#F6CAD8"
+        },
+        {
+          "id": "v1-pink-king",
+          "sku": "COT-BS-001-PK",
+          "stock": 6,
+          "colorHex": "#F6CAD8",
+          "image": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+          "sizeAr": "سرير كينج (180×200 سم)",
+          "color": "Pink",
+          "colorAr": "وردي بودري (Blush Pink)",
+          "price": 950,
+          "size": "King"
+        },
+        {
+          "color": "Green",
+          "colorHex": "#7AA383",
+          "price": 800,
+          "size": "Double",
+          "sku": "COT-BS-001-SD",
+          "sizeAr": "سرير مزدوج (160×200 سم)",
+          "id": "v1-sage-double",
+          "image": "/images/product_pillow_cozy_1790823990563.jpg",
+          "colorAr": "أخضر ميرمية (Sage Green)",
+          "stock": 7
+        },
+        {
+          "colorAr": "بيج دافئ (Warm Beige)",
+          "sku": "COT-BS-001-BD",
+          "stock": 9,
+          "sizeAr": "سرير مزدوج (160×200 سم)",
+          "colorHex": "#FAF2EB",
+          "id": "v1-beige-double",
+          "image": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+          "color": "Beige",
+          "price": 800,
+          "size": "Double"
+        }
+      ],
+      "materialsAr": "قطن مصري بركال 100% طبيعي، ناعم وبارد عالبشرة، خيوط 300 غرزة",
+      "nameAr": "طقم سرير بينك بلوسوم هاند ميد",
+      "discountValue": 20,
+      "isFeatured": true,
+      "isPublished": true,
+      "id": "prod-1",
+      "discountType": "percentage",
+      "description": "Signature handmade Egyptian cotton bedsheet set featuring delicate hand-drawn wild rose florals in soft dusty pink and sage leaves. Includes fitted sheet, duvet cover, and two ruffled pillowcases."
+    },
+    {
+      "description": "Pair of cozy handmade throw pillowcases with romantic vintage ruffle trim in soft botanical sage print.",
+      "materials": "Pure Washed Cotton Linen Blend",
+      "availability": "in_stock",
+      "careInstructionsAr": "غسيل خفيف وكي بالبخار لإبراز جمال الكشكشة.",
+      "price": 450,
+      "dimensionsAr": "50×70 سم مع إطار كشكشة بعرض 4 سم",
+      "isPublished": true,
+      "isFeatured": true,
+      "category": "bedsheets",
+      "name": "Botanical Sage Ruffle Pillow Duo",
+      "tags": [
+        "pillows",
+        "sage",
+        "ruffles",
+        "decor"
+      ],
+      "materialsAr": "قطن طبيعي مغسول مسبقاً لملمس فائق النعومة",
+      "discountType": "fixed",
+      "createdAt": "2026-03-12",
+      "careInstructions": "Gentle cycle, tumble dry low or line dry.",
+      "sku": "COT-PL-002",
+      "dimensions": "50x70cm with 4cm ruffle border",
+      "discountValue": 50,
+      "descriptionAr": "طقم قطعتين غطاء خدادية هاند ميد بكشكشة فرنسية ناعمة بنقش أوراق الميرمية الخضراء على خلفية كريمية دافئة.",
+      "nameAr": "طقم خداديات أوراق الميرمية بكشكشة",
+      "reviewCount": 24,
+      "images": [
+        "/images/product_pillow_cozy_1790823990563.jpg",
+        "/images/product_bedsheet_blossom_1790823969755.jpg"
+      ],
+      "rating": 4.9,
+      "discountEnabled": true,
+      "isArchived": false,
+      "variants": [
+        {
+          "image": "/images/product_pillow_cozy_1790823990563.jpg",
+          "stock": 15,
+          "colorAr": "وردي بودري (Blush Pink)",
+          "size": "Standard (50x70)",
+          "color": "Pink",
+          "id": "v2-pink-std",
+          "colorHex": "#F6CAD8",
+          "sizeAr": "مقاس قياسي (50×70 سم)",
+          "price": 400
+        },
+        {
+          "image": "/images/product_pillow_cozy_1790823990563.jpg",
+          "id": "v2-sage-std",
+          "sizeAr": "مقاس قياسي (50×70 سم)",
+          "stock": 14,
+          "size": "Standard (50x70)",
+          "color": "Green",
+          "colorAr": "أخضر ميرمية (Sage Green)",
+          "price": 400,
+          "colorHex": "#7AA383"
+        },
+        {
+          "sizeAr": "مقاس قياسي (50×70 سم)",
+          "stock": 10,
+          "image": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+          "colorAr": "كريمي دافئ (Warm Cream)",
+          "size": "Standard (50x70)",
+          "colorHex": "#FAF2EB",
+          "id": "v2-cream-std",
+          "price": 400,
+          "color": "Beige"
+        }
+      ],
+      "slug": "botanical-sage-ruffle-pillow-duo",
+      "id": "prod-2",
+      "collectionId": "spring-2026",
+      "finalPrice": 400
+    },
+    {
+      "images": [
+        "/images/product_pouch_floral_1790823980112.jpg",
+        "/images/hero_cottonella_bedroom_1790823958038.jpg"
+      ],
+      "rating": 5,
+      "name": "Wild Rose Quilted Cosmetic Pouch",
+      "tags": [
+        "pouch",
+        "cosmetics",
+        "quilted",
+        "handmade",
+        "gift"
+      ],
+      "descriptionAr": "بوش كوزمتيكس مبطن ومحشو قطن ناعم جداً ومقاوم للماء من الداخل، مع سوستة ذهبية أنيقة لترتيب ميك اب أو مستلزماتك اليومية في شنطتك.",
+      "reviewCount": 42,
+      "collectionId": "spring-2026",
+      "nameAr": "بوش ميك اب مبطن بالورد البلدي",
+      "category": "pouch",
+      "sku": "COT-PCH-003",
+      "isArchived": false,
+      "discountEnabled": false,
+      "finalPrice": 350,
+      "id": "prod-3",
+      "isPublished": true,
+      "slug": "wild-rose-quilted-cosmetic-pouch",
+      "description": "Adorably puffy quilted cotton pouch lined with waterproof interior and finished with a gold metallic zipper and cute fabric pull.",
+      "createdAt": "2026-03-14",
+      "isFeatured": true,
+      "price": 350,
+      "discountType": "percentage",
+      "careInstructions": "Spot clean or hand wash gently in cool water.",
+      "dimensionsAr": "22 سم طول × 14 سم ارتفاع × 8 سم قاعدة متسعة",
+      "careInstructionsAr": "تنظيف موضعي بقطعة قماش مبللة أو غسيل يدوي خفيف.",
+      "availability": "in_stock",
+      "dimensions": "22cm x 14cm x 8cm",
+      "discountValue": 0,
+      "materialsAr": "كانفاس قطني مبطن ناعم مع بطانة داخلية عازلة وسوستة معدنية ذهبية",
+      "variants": [
+        {
+          "colorAr": "وردي بودري (Blush Pink)",
+          "image": "/images/product_pouch_floral_1790823980112.jpg",
+          "size": "Medium",
+          "sizeAr": "حجم وسط (للشنطة اليومية)",
+          "colorHex": "#F6CAD8",
+          "stock": 20,
+          "price": 350,
+          "id": "v3-pink-med",
+          "color": "Pink"
+        },
+        {
+          "colorHex": "#F6CAD8",
+          "color": "Pink",
+          "price": 410,
+          "size": "Large",
+          "id": "v3-pink-large",
+          "image": "/images/product_pouch_floral_1790823980112.jpg",
+          "stock": 15,
+          "sizeAr": "حجم كبير (للسفر والرحلات)",
+          "colorAr": "وردي بودري (Blush Pink)"
+        },
+        {
+          "image": "/images/product_pouch_floral_1790823980112.jpg",
+          "stock": 12,
+          "id": "v3-sage-med",
+          "size": "Medium",
+          "color": "Green",
+          "colorHex": "#7AA383",
+          "price": 350,
+          "sizeAr": "حجم وسط (للشنطة اليومية)",
+          "colorAr": "أخضر ميرمية (Sage Green)"
+        }
+      ],
+      "materials": "Quilted Cotton Canvas with Satin Lining"
+    },
+    {
+      "dimensions": "20cm x 7cm x 6cm",
+      "dimensionsAr": "20 سم طول × 7 سم ارتفاع × 6 سم عرض",
+      "careInstructionsAr": "غسيل يدوي بصابون لطيف.",
+      "descriptionAr": "بوش ميني أنيق ومحمول للمقالم والأقلام وفرش المكياج أو النظارة والإكسسوارات الصغيرة.",
+      "availability": "in_stock",
+      "slug": "cozy-garden-mini-pencil-pouch",
+      "materials": "Pure Cotton with Soft Batting",
+      "isFeatured": false,
+      "reviewCount": 19,
+      "price": 240,
+      "createdAt": "2026-02-18",
+      "id": "prod-4",
+      "discountType": "percentage",
+      "discountEnabled": true,
+      "variants": [
+        {
+          "colorAr": "زهور وردية",
+          "color": "Pink",
+          "sizeAr": "مقاس موحد",
+          "id": "v4-pink-one",
+          "price": 204,
+          "stock": 12,
+          "colorHex": "#F6CAD8",
+          "size": "One Size",
+          "image": "/images/product_pouch_floral_1790823980112.jpg"
+        },
+        {
+          "color": "Green",
+          "sizeAr": "مقاس موحد",
+          "id": "v4-sage-one",
+          "price": 204,
+          "colorHex": "#7AA383",
+          "stock": 8,
+          "colorAr": "فروع الميرمية",
+          "image": "/images/product_pouch_floral_1790823980112.jpg",
+          "size": "One Size"
+        }
+      ],
+      "finalPrice": 204,
+      "rating": 4.8,
+      "images": [
+        "/images/product_pouch_floral_1790823980112.jpg",
+        "/images/product_pillow_cozy_1790823990563.jpg"
+      ],
+      "nameAr": "مقلمة وبوش ميني للأقلام والإكسسوارات",
+      "category": "pouch",
+      "name": "Cozy Garden Mini Pencil & Vanity Pouch",
+      "tags": [
+        "pouch",
+        "stationery",
+        "pencilcase",
+        "floral"
+      ],
+      "isArchived": false,
+      "sku": "COT-PCH-004",
+      "materialsAr": "قطن مصري 100% مع طبقة حشو ناعمة ومريحة",
+      "isPublished": true,
+      "collectionId": "spring-2025",
+      "discountValue": 15,
+      "careInstructions": "Hand wash with mild soap.",
+      "description": "Compact floral pouch perfect for highlighters, stationery, brushes, or handbag lipsticks."
+    },
+    {
+      "discountType": "percentage",
+      "description": "Understated elegance in warm cream with delicate micro-lace embroidery along the borders.",
+      "discountValue": 18,
+      "price": 1100,
+      "careInstructionsAr": "غسيل دافئ وتجفيف لطيف.",
+      "slug": "vintage-cream-bedsheet-set",
+      "isPublished": true,
+      "isFeatured": true,
+      "sku": "COT-BS-005",
+      "variants": [
+        {
+          "image": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+          "size": "Double",
+          "id": "v5-beige-double",
+          "stock": 7,
+          "price": 902,
+          "colorHex": "#FAF2EB",
+          "color": "Beige",
+          "sizeAr": "سرير مزدوج (160×200 سم)",
+          "colorAr": "كريمي فينتاج (Warm Cream)"
+        },
+        {
+          "image": "/images/hero_cottonella_bedroom_1790823958038.jpg",
+          "sizeAr": "سرير كينج (180×200 سم)",
+          "id": "v5-beige-king",
+          "size": "King",
+          "stock": 5,
+          "price": 1020,
+          "colorAr": "كريمي فينتاج (Warm Cream)",
+          "color": "Beige",
+          "colorHex": "#FAF2EB"
+        }
+      ],
+      "materialsAr": "قطن مصري ستان ناعم بلمعة خفيفة ساحرة",
+      "availability": "in_stock",
+      "id": "prod-5",
+      "dimensions": "Bed Sheet: 240x260cm, Pillows: 50x70cm",
+      "dimensionsAr": "ملاية: 240×260 سم، 2 مخدة: 50×70 سم",
+      "careInstructions": "Wash warm, tumble dry gentle.",
+      "discountEnabled": true,
+      "createdAt": "2026-01-20",
+      "collectionId": "spring-2025",
+      "reviewCount": 31,
+      "category": "bedsheets",
+      "name": "Vintage Cream Ruffled Sheet Set",
+      "tags": [
+        "cream",
+        "vintage",
+        "bedsheets",
+        "lace"
+      ],
+      "nameAr": "طقم سرير كريمي فينتاج بكشكشة مزدوجة",
+      "materials": "High Thread Count Egyptian Cotton Sateen",
+      "rating": 5,
+      "isArchived": false,
+      "images": [
+        "/images/hero_cottonella_bedroom_1790823958038.jpg",
+        "/images/product_bedsheet_blossom_1790823969755.jpg"
+      ],
+      "finalPrice": 902,
+      "descriptionAr": "لمسة هدوء وفخامة استثنائية بلون الكريمة الدافئ وكشكشة مزدوجة مع تطريز دقيق مستوحى من الديكورات الفرنسية."
+    }
+  ]
+}

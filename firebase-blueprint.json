@@ -1,0 +1,26 @@
+{
+  "entities": {
+    "StoreData": {
+      "title": "StoreData",
+      "description": "Full store state including sections, products, categories, collections, and settings",
+      "type": "object",
+      "properties": {
+        "products": { "type": "array", "description": "Catalog products" },
+        "collections": { "type": "array", "description": "Curated collections" },
+        "categories": { "type": "array", "description": "Store categories" },
+        "sections": { "type": "array", "description": "Home page sections and hero banner configuration" },
+        "testimonials": { "type": "array", "description": "Customer reviews and testimonials" },
+        "promotions": { "type": "array", "description": "Promotional offers and banners" },
+        "settings": { "type": "object", "description": "Store appearance, logo, contacts, and configuration" },
+        "media": { "type": "array", "description": "Uploaded media library items" },
+        "updatedAt": { "type": "string", "description": "ISO timestamp of last update" }
+      }
+    }
+  },
+  "firestore": {
+    "/store/{docId}": {
+      "schema": "StoreData",
+      "description": "Store configuration and dynamic content documents"
+    }
+  }
+}

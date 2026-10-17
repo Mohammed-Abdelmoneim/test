@@ -1,0 +1,6 @@
+{
+  "name": "Cottonella | قطونيلا - Handmade Home Textiles",
+  "description": "Feminine modern e-commerce storefront and visual CMS dashboard for handmade bedsheets, pouches, and home decor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
